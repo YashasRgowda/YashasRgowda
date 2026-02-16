@@ -52,7 +52,7 @@
 
 ## Featured Projects
 
-### 🔹 CodeAuditAI — AI-Powered Code Review Platform
+### 🔹 CodeAuditAI — AI Powered Code Review Platform
 **Automated repository analysis, PR reviews, and code quality metrics using LLMs**
 
 - GitHub OAuth, Webhooks & Repository Intelligence
