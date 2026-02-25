@@ -65,15 +65,15 @@
 
 ---
 
-### 🔹 DocuQuery AI — Intelligent Document Q&A
-**RAG-based system for accurate natural-language queries on PDFs**
+### 🔹 TimeRAG — Time-Aware Retrieval Augmented Generation
+**The only RAG system with native temporal awareness — every query anchored to an exact date**
+- 100% time relevance accuracy · 80% eval pass rate · 44 automated tests
+- Hybrid FAISS + PostgreSQL retrieval with Redis caching (<60ms cached queries)
+- AI-powered PDF date extraction with time-anchored semantic search
+- Document versioning, JWT auth, rate limiting, Docker + GitHub Actions CI/CD
 
-- Multi-document semantic search
-- Sub-second retrieval using FAISS
-- 94%+ answer accuracy with optimized chunking
-
-**Tech:** FastAPI · Sentence Transformers · FAISS · Gemini 1.5 Flash  
-🔗 https://github.com/YashasRgowda/docuquery
+**Tech:** FastAPI · Next.js · Gemini 2.5 Flash · PostgreSQL · FAISS · Redis · Sentence Transformers · Render  
+🔗 [GitHub](https://github.com/YashasRgowda/GenAI-workshop--resources/tree/main/GenAI/Projects/time-aware-rag) · [Live Demo](https://time-aware-rag.vercel.app)
 
 ---
 
